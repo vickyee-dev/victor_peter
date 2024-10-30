@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickyee-dev)](https://github.com/anuraghazra/github-readme-stats)
+
 # Hi, there 👋
 
 I'm Victor, Welcome to my GitHub profile! I'm an aspiring full-stack developer with a strong focus on JavaScript, Python, and Java. I'm passionate about creating tech solutions that address real-world problems, especially those faced by developing countries. Here, you’ll find some of the projects I’m working on, as well as resources and ideas I’m exploring in my tech journey.
